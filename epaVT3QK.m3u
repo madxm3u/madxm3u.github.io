@@ -1,0 +1,332 @@
+#EXTM3U IPTV STREAMING
+#EXTINF:0,Bang FE Slide
+https://r1---sn-uxa3vhnxa-230s.googlevideo.com/videoplayback?expire=1582308290&ei=QqtPXuzKBZSIkgbj7Kkw&ip=182.1.52.238&id=e8a537794eb0af6b&itag=18&source=blogger&mm=31&mn=sn-uxa3vhnxa-230s&ms=au&mv=m&mvi=0&pcm2cms=yes&pl=20&susc=bl&mime=video/mp4&dur=32.089&lmt=1582279237506616&mt=1582279419&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ADKhkGMwRQIhAJxLW1g8fON73Goh6zesq3GLgsb4EXVdZK7_l59ZlhDxAiA41RXrd5OcRSFROAqIAChbx5m0nUdk20atUd9Tu09Lmg%3D%3D&lsparams=mm,mn,ms,mv,mvi,pcm2cms,pl&lsig=ABSNjpQwRQIhAMXdCy02m5WgKM-8KNkuHkkDDajfTXKyn-_W2EAdJ6mkAiAqL_X1WvNXivehuyzF7nEyhFWDZ3X_mKx7U20WILBp9w%3D%3D&cpn=5Op1-U67YOww7Hw_&c=WEB_EMBEDDED_PLAYER&cver=20200220
+
+#EXTINF:-1 tvg-ID="" tvg-name="Real Madrid TV" tvg-logo="" group-title="Sport",Real Madrid TV
+http://streamku.live:8888/live/empire/adminempire/703.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Sport 5" tvg-logo="" group-title="Sport",Al Kass Sport 5
+http://streamku.live:8888/live/empire/adminempire/701.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Sport 4" tvg-logo="" group-title="Sport",Al Kass Sport 4
+http://streamku.live:8888/live/empire/adminempire/700.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Sport 3" tvg-logo="" group-title="Sport",Al Kass Sport 3
+http://streamku.live:8888/live/empire/adminempire/699.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Sport 2" tvg-logo="" group-title="Sport",Al Kass Sport 2
+http://streamku.live:8888/live/empire/adminempire/698.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Sport 1" tvg-logo="" group-title="Sport",Al Kass Sport 1
+http://streamku.live:8888/live/empire/adminempire/697.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZooMoo HD" tvg-logo="" group-title="Kids",ZooMoo HD
+http://streamku.live:8888/live/empire/adminempire/561.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop" tvg-logo="" group-title="Movies",Zee Bioskop
+http://streamku.live:8888/live/empire/adminempire/596.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Warner TV" tvg-logo="https://mncvision.id/userfiles/image/channel/warner_tv.png" group-title="Movies",Warner TV
+http://streamku.live:8888/live/empire/adminempire/593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Waku-Waku Japan HD" tvg-logo="" group-title="Korea",Waku-Waku Japan HD
+http://streamku.live:8888/live/empire/adminempire/540.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Vision Prime" tvg-logo="" group-title="Entertainment",Vision Prime
+http://streamku.live:8888/live/empire/adminempire/553.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Usee Sport 1" tvg-logo="" group-title="Sport",Usee Sport 1
+http://streamku.live:8888/live/empire/adminempire/502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Usee Sport 2" tvg-logo="" group-title="Sport",Usee Sport 2
+http://streamku.live:8888/live/empire/adminempire/503.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Usee Prime" tvg-logo="" group-title="Entertainment",Usee Prime
+http://streamku.live:8888/live/empire/adminempire/555.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Usee Photo" tvg-logo="" group-title="Entertainment",Usee Photo
+http://streamku.live:8888/live/empire/adminempire/554.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="" group-title="Indonesia",TVRI
+http://streamku.live:8888/live/empire/adminempire/619.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="" group-title="Sport",TVRI Sport
+http://streamku.live:8888/live/empire/adminempire/510.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVN Movies" tvg-logo="" group-title="Korea",TVN Movies
+http://streamku.live:8888/live/empire/adminempire/539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVN" tvg-logo="" group-title="Korea",TVN
+http://streamku.live:8888/live/empire/adminempire/538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV9 NU" tvg-logo="" group-title="Religi",TV9 NU
+http://streamku.live:8888/live/empire/adminempire/495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 Monde" tvg-logo="" group-title="News",TV5 Monde
+http://streamku.live:8888/live/empire/adminempire/532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV ONE" tvg-logo="" group-title="Indonesia",TV ONE
+http://streamku.live:8888/live/empire/adminempire/613.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Muhammadiyah" tvg-logo="" group-title="Religi",TV Muhammadiyah
+http://streamku.live:8888/live/empire/adminempire/496.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia",Trans TV
+http://streamku.live:8888/live/empire/adminempire/612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia",Trans 7
+http://streamku.live:8888/live/empire/adminempire/611.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC HD" tvg-logo="" group-title="Food & Lifestyle",TLC HD
+http://streamku.live:8888/live/empire/adminempire/475.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Thrill HD" tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Movies",Thrill HD
+http://streamku.live:8888/live/empire/adminempire/595.ts
+#EXTINF:-1 tvg-ID="" tvg-name="T-Music" tvg-logo="" group-title="Music",T-Music
+http://streamku.live:8888/live/empire/adminempire/500.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Space Toon" tvg-logo="" group-title="Kids",Space Toon
+http://streamku.live:8888/live/empire/adminempire/562.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Oh!k" tvg-logo="" group-title="Korea",Oh!k
+http://streamku.live:8888/live/empire/adminempire/688.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony ONE HD" tvg-logo="" group-title="Korea",Sony ONE HD
+http://streamku.live:8888/live/empire/adminempire/537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony GEM HD" tvg-logo="" group-title="Korea",Sony GEM HD
+http://streamku.live:8888/live/empire/adminempire/536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Smith Sonian HD" tvg-logo="" group-title="Science",Smith Sonian HD
+http://streamku.live:8888/live/empire/adminempire/483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sinema Indonesia" tvg-logo="" group-title="Entertainment",Sinema Indonesia
+http://streamku.live:8888/live/empire/adminempire/545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia",SCTV
+http://streamku.live:8888/live/empire/adminempire/608.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CCM HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movies",CCM HD
+http://streamku.live:8888/live/empire/adminempire/682.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SCM Legend HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_24.png" group-title="Movies",SCM Legend HD
+http://streamku.live:8888/live/empire/adminempire/591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SCM HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_18.jpg" group-title="Movies",SCM HD
+http://streamku.live:8888/live/empire/adminempire/590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Salam TV" tvg-logo="" group-title="Religi",Salam TV
+http://streamku.live:8888/live/empire/adminempire/493.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rusia Today" tvg-logo="" group-title="News",Rusia Today
+http://streamku.live:8888/live/empire/adminempire/527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ruang Terampil" tvg-logo="" group-title="Entertainment",Ruang Terampil
+http://streamku.live:8888/live/empire/adminempire/557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV" tvg-logo="" group-title="Indonesia",RTV
+http://streamku.live:8888/live/empire/adminempire/614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rodja TV" tvg-logo="" group-title="Religi",Rodja TV
+http://streamku.live:8888/live/empire/adminempire/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Red Bull TV" tvg-logo="" group-title="Sport",Red Bull TV
+http://streamku.live:8888/live/empire/adminempire/509.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RCTI HD" tvg-logo="https://imgshare.io/images/2019/09/30/rcti.png" group-title="Indonesia",RCTI HD
+http://streamku.live:8888/live/empire/adminempire/604.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RRI Net" tvg-logo="" group-title="Indonesia",RRI Net
+http://streamku.live:8888/live/empire/adminempire/676.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mix Music" tvg-logo="" group-title="Music",Mix Music
+http://streamku.live:8888/live/empire/adminempire/677.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Karaoke Channel" tvg-logo="" group-title="Music",Karaoke Channel
+http://streamku.live:8888/live/empire/adminempire/678.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Prambors TV" tvg-logo="" group-title="Music",Prambors TV
+http://streamku.live:8888/live/empire/adminempire/499.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Outdoor Channel" tvg-logo="" group-title="Science",Outdoor Channel
+http://streamku.live:8888/live/empire/adminempire/490.ts
+#EXTINF:-1 tvg-ID="" tvg-name="O Channel HD" tvg-logo="" group-title="Entertainment",O Channel HD
+http://streamku.live:8888/live/empire/adminempire/559.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nicklodeon" tvg-logo="" group-title="Kids",Nicklodeon
+http://streamku.live:8888/live/empire/adminempire/567.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nick JR" tvg-logo="" group-title="Kids",Nick JR
+http://streamku.live:8888/live/empire/adminempire/573.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NHK World Japan" tvg-logo="" group-title="News",NHK World Japan
+http://streamku.live:8888/live/empire/adminempire/529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NET. HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="Indonesia",NET. HD
+http://streamku.live:8888/live/empire/adminempire/610.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA" tvg-logo="" group-title="Sport",NBA
+http://streamku.live:8888/live/empire/adminempire/507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="Science",NatGeo Wild HD
+http://streamku.live:8888/live/empire/adminempire/488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo People HD" tvg-logo="" group-title="Science",NatGeo People HD
+http://streamku.live:8888/live/empire/adminempire/489.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo Channel HD" tvg-logo="" group-title="Science",NatGeo Channel HD
+http://streamku.live:8888/live/empire/adminempire/487.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MyTV HD" tvg-logo="" group-title="Entertainment",MyTV HD
+http://streamku.live:8888/live/empire/adminempire/544.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tawaf TV" tvg-logo="" group-title="Religi",Tawaf TV
+http://streamku.live:8888/live/empire/adminempire/673.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Khazanah" tvg-logo="" group-title="Religi",Khazanah
+http://streamku.live:8888/live/empire/adminempire/674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Muslim TV" tvg-logo="" group-title="Religi",Muslim TV
+http://streamku.live:8888/live/empire/adminempire/494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Live" tvg-logo="" group-title="Music",MTV Live
+http://streamku.live:8888/live/empire/adminempire/501.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MNC Sport 1" tvg-logo="" group-title="Sport",MNC Sport 1
+http://streamku.live:8888/live/empire/adminempire/513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MNC Sport 2" tvg-logo="" group-title="Sport",MNC Sport 2
+http://streamku.live:8888/live/empire/adminempire/514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MNC" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia",MNC
+http://streamku.live:8888/live/empire/adminempire/605.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Metro TV" tvg-logo="" group-title="News",Metro TV
+http://streamku.live:8888/live/empire/adminempire/523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Makkah Live" tvg-logo="" group-title="Religi",Makkah Live
+http://streamku.live:8888/live/empire/adminempire/491.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Madinah Live" tvg-logo="" group-title="Religi",Madinah Live
+http://streamku.live:8888/live/empire/adminempire/492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Love Nature 4K" tvg-logo="" group-title="Science",Love Nature 4K
+http://streamku.live:8888/live/empire/adminempire/473.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Life Time HD" tvg-logo="" group-title="Food & Lifestyle",Life Time HD
+http://streamku.live:8888/live/empire/adminempire/472.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K-Plus HD" tvg-logo="" group-title="Korea",K-Plus HD
+http://streamku.live:8888/live/empire/adminempire/543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kompas TV" tvg-logo="" group-title="Indonesia",Kompas TV
+http://streamku.live:8888/live/empire/adminempire/615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KIX HD" tvg-logo="" group-title="Movies",KIX HD
+http://streamku.live:8888/live/empire/adminempire/594.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kids TV" tvg-logo="" group-title="Kids",Kids TV
+http://streamku.live:8888/live/empire/adminempire/572.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KBS World" tvg-logo="" group-title="Korea",KBS World
+http://streamku.live:8888/live/empire/adminempire/541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K Drama" tvg-logo="" group-title="Korea",K Drama
+http://streamku.live:8888/live/empire/adminempire/535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JTV Surabaya" tvg-logo="" group-title="Indonesia",JTV Surabaya
+http://streamku.live:8888/live/empire/adminempire/618.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JGO" tvg-logo="" group-title="Entertainment",JGO
+http://streamku.live:8888/live/empire/adminempire/546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JawaPos TV" tvg-logo="" group-title="Indonesia",JawaPos TV
+http://streamku.live:8888/live/empire/adminempire/617.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jak TV" tvg-logo="" group-title="Indonesia",Jak TV
+http://streamku.live:8888/live/empire/adminempire/616.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jakarta Globe" tvg-logo="" group-title="News",Jakarta Globe
+http://streamku.live:8888/live/empire/adminempire/675.ts
+#EXTINF:-1 tvg-ID="" tvg-name="iNews" tvg-logo="" group-title="News",iNews
+http://streamku.live:8888/live/empire/adminempire/522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Indosiar" tvg-logo="" group-title="Indonesia",Indosiar
+http://streamku.live:8888/live/empire/adminempire/609.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies",IMC
+http://streamku.live:8888/live/empire/adminempire/598.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ID KU" tvg-logo="" group-title="Entertainment",ID KU
+http://streamku.live:8888/live/empire/adminempire/556.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Home Links" tvg-logo="" group-title="Entertainment",Home Links
+http://streamku.live:8888/live/empire/adminempire/558.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HITS Movies" tvg-logo="https://zaltvku.com/file/img/hits-movies-logo.png" group-title="Movies",HITS Movies
+http://streamku.live:8888/live/empire/adminempire/575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HITS" tvg-logo="" group-title="Movies",HITS
+http://streamku.live:8888/live/empire/adminempire/574.ts
+#EXTINF:-1 tvg-ID="" tvg-name="History HD" tvg-logo="" group-title="Science",History HD
+http://streamku.live:8888/live/empire/adminempire/484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hi Indo" tvg-logo="" group-title="Indonesia",Hi Indo
+http://streamku.live:8888/live/empire/adminempire/602.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HGTV HD" tvg-logo="" group-title="Food & Lifestyle",HGTV HD
+http://streamku.live:8888/live/empire/adminempire/476.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movies",HBO HD
+http://streamku.live:8888/live/empire/adminempire/576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Red By HBO" tvg-logo="https://macan.live/img/red_hbo.png" group-title="Movies",Red By HBO
+http://streamku.live:8888/live/empire/adminempire/689.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movies",HBO Signature HD
+http://streamku.live:8888/live/empire/adminempire/577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Hits HD" tvg-logo="" group-title="Movies",HBO Hits HD
+http://streamku.live:8888/live/empire/adminempire/578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movies",HBO Family HD
+http://streamku.live:8888/live/empire/adminempire/661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Indonesia",GTV
+http://streamku.live:8888/live/empire/adminempire/606.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Golf Life FHD" tvg-logo="" group-title="Sport",Golf Life FHD
+http://streamku.live:8888/live/empire/adminempire/511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Galaxy" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies",Galaxy
+http://streamku.live:8888/live/empire/adminempire/601.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX HD" tvg-logo="https://macan.live/img/fx.png" group-title="Movies",FX HD
+http://streamku.live:8888/live/empire/adminempire/580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="France 24 HD" tvg-logo="" group-title="News",France 24 HD
+http://streamku.live:8888/live/empire/adminempire/528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 1 HD" tvg-logo="" group-title="Sport",FOX Sports 1 HD
+http://streamku.live:8888/live/empire/adminempire/620.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 HD" tvg-logo="" group-title="Sport",FOX Sports 2 HD
+http://streamku.live:8888/live/empire/adminempire/517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 3 HD" tvg-logo="" group-title="Sport",FOX Sports 3 HD
+http://streamku.live:8888/live/empire/adminempire/518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 1 HD" tvg-logo="" group-title="Sport",Sony Ten 1 HD
+http://streamku.live:8888/live/empire/adminempire/679.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="Sport",Sony Ten 2 HD
+http://streamku.live:8888/live/empire/adminempire/680.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies Premium HD" tvg-logo="https://zaltvku.com/file/img/FOXMoviesPremium.png" group-title="Movies",FOX Movies Premium HD
+http://streamku.live:8888/live/empire/adminempire/585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Life HD" tvg-logo="https://macan.live/img/fox_life.png" group-title="Movies",FOX Life HD
+http://streamku.live:8888/live/empire/adminempire/583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Family Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="Movies",FOX Family Movies HD
+http://streamku.live:8888/live/empire/adminempire/584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Movies",Fox Crime HD
+http://streamku.live:8888/live/empire/adminempire/582.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Channel HD" tvg-logo="https://macan.live/img/fox.jpg" group-title="Movies",Fox Channel HD
+http://streamku.live:8888/live/empire/adminempire/581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" group-title="Movies",FOX Action Movies HD
+http://streamku.live:8888/live/empire/adminempire/586.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FMN" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fmn.jpg" group-title="Movies",FMN
+http://streamku.live:8888/live/empire/adminempire/579.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Flik HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movies",Flik HD
+http://streamku.live:8888/live/empire/adminempire/600.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Sports" tvg-logo="" group-title="Sport",Fight Sports
+http://streamku.live:8888/live/empire/adminempire/512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion TV" tvg-logo="" group-title="Entertainment",Fashion TV
+http://streamku.live:8888/live/empire/adminempire/550.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion One" tvg-logo="" group-title="Entertainment",Fashion One
+http://streamku.live:8888/live/empire/adminempire/549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Euro News" tvg-logo="" group-title="News",Euro News
+http://streamku.live:8888/live/empire/adminempire/534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Egg Network" tvg-logo="" group-title="Sport",Egg Network
+http://streamku.live:8888/live/empire/adminempire/508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eat & Go" tvg-logo="" group-title="Food & Lifestyle",Eat & Go
+http://streamku.live:8888/live/empire/adminempire/548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DWTV" tvg-logo="" group-title="Science",DWTV
+http://streamku.live:8888/live/empire/adminempire/479.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dunia Lain" tvg-logo="" group-title="Entertainment",Dunia Lain
+http://streamku.live:8888/live/empire/adminempire/547.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="" group-title="Kids",Disney Junior
+http://streamku.live:8888/live/empire/adminempire/570.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",Disney Channel
+http://streamku.live:8888/live/empire/adminempire/571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel FHD" tvg-logo="" group-title="Science",Discovery Channel FHD
+http://streamku.live:8888/live/empire/adminempire/486.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAAI TV" tvg-logo="" group-title="Entertainment",DAAI TV
+http://streamku.live:8888/live/empire/adminempire/560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DA Vinci" tvg-logo="" group-title="Kids",DA Vinci
+http://streamku.live:8888/live/empire/adminempire/569.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Crime Investigation" tvg-logo="" group-title="Science",Crime Investigation
+http://streamku.live:8888/live/empire/adminempire/482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN Indonesia HD" tvg-logo="" group-title="News",CNN Indonesia HD
+http://streamku.live:8888/live/empire/adminempire/520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC Indonesia HD" tvg-logo="" group-title="News",CNBC Indonesia HD
+http://streamku.live:8888/live/empire/adminempire/521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNA" tvg-logo="" group-title="News",CNA
+http://streamku.live:8888/live/empire/adminempire/531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CitraDrama" tvg-logo="" group-title="Entertainment",CitraDrama
+http://streamku.live:8888/live/empire/adminempire/551.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CitraBioskop" tvg-logo="" group-title="Entertainment",CitraBioskop
+http://streamku.live:8888/live/empire/adminempire/552.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax HD" tvg-logo="" group-title="Movies",Cinemax HD
+http://streamku.live:8888/live/empire/adminempire/589.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemaworld HD" tvg-logo="https://zaltvku.com/file/img/cinemaworld.png" group-title="Movies",Cinemaworld HD
+http://streamku.live:8888/live/empire/adminempire/597.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Chinese Drama" tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="Movies",Chinese Drama
+http://streamku.live:8888/live/empire/adminempire/603.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Channel V" tvg-logo="" group-title="Music",Channel V
+http://streamku.live:8888/live/empire/adminempire/498.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 1" tvg-logo="" group-title="Sport",Champion TV 1
+http://streamku.live:8888/live/empire/adminempire/504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 2" tvg-logo="" group-title="Sport",Champion TV 2
+http://streamku.live:8888/live/empire/adminempire/505.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN" tvg-logo="" group-title="Science",CGTN
+http://streamku.live:8888/live/empire/adminempire/481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Celestial Movie HD" tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="Movies",Celestial Movie HD
+http://streamku.live:8888/live/empire/adminempire/592.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV 4" tvg-logo="" group-title="News",CCTV 4
+http://streamku.live:8888/live/empire/adminempire/526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
+http://streamku.live:8888/live/empire/adminempire/568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="" group-title="Kids",Boomerang
+http://streamku.live:8888/live/empire/adminempire/566.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://zaltvku.com/file/img/logo_bluextreme_small.png" group-title="Movies",Blue Ant Extreme HD
+http://streamku.live:8888/live/empire/adminempire/587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Blue Ant Entertain HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Movies",Blue Ant Entertain HD
+http://streamku.live:8888/live/empire/adminempire/588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg HD" tvg-logo="" group-title="News",Bloomberg HD
+http://streamku.live:8888/live/empire/adminempire/525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies",Bioskop Indonesia
+http://streamku.live:8888/live/empire/adminempire/599.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Berita Satu" tvg-logo="" group-title="News",Berita Satu
+http://streamku.live:8888/live/empire/adminempire/519.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 1" tvg-logo="" group-title="Sport",Bein Sports 1
+http://streamku.live:8888/live/empire/adminempire/515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 2" tvg-logo="" group-title="Sport",Bein Sports 2
+http://streamku.live:8888/live/empire/adminempire/516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Earth" tvg-logo="" group-title="Science",BBC Earth
+http://streamku.live:8888/live/empire/adminempire/485.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC World News" tvg-logo="" group-title="News",BBC World News
+http://streamku.live:8888/live/empire/adminempire/530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC LifeStyle HD" tvg-logo="" group-title="Food & Lifestyle",BBC LifeStyle HD
+http://streamku.live:8888/live/empire/adminempire/474.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Baby TV" tvg-logo="" group-title="Kids",Baby TV
+http://streamku.live:8888/live/empire/adminempire/565.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Asian Food Network" tvg-logo="" group-title="Food & Lifestyle",Asian Food Network
+http://streamku.live:8888/live/empire/adminempire/477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arirang" tvg-logo="" group-title="Korea",Arirang
+http://streamku.live:8888/live/empire/adminempire/542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="" group-title="Indonesia",ANTV
+http://streamku.live:8888/live/empire/adminempire/607.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AniPlus" tvg-logo="" group-title="Kids",AniPlus
+http://streamku.live:8888/live/empire/adminempire/563.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animax HD" tvg-logo="" group-title="Kids",Animax HD
+http://streamku.live:8888/live/empire/adminempire/564.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Science",Animal Planet HD
+http://streamku.live:8888/live/empire/adminempire/480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Al-Jazeera HD" tvg-logo="" group-title="News",Al-Jazeera HD
+http://streamku.live:8888/live/empire/adminempire/524.ts
