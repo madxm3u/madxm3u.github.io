@@ -1,0 +1,171 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA",METRO TV
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 group-title="USEE TV",TVONE
+https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng.m3u8?Y7TB1Q_0vmsDzeGSeAmxzg1582825764
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA",GTV
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA",TRANS TV 2
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA",SCTV
+https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA",MNCTV
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+#EXTINF:-1 group-title="USEE TV",INDOSIAR
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1095388462_b894100_sleng.m3u8?8V4Cf1M2uA_RYBfF4tySkA1584795947
+#EXTINF:-1 group-title="USEE TV",ANTV
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1504398086_b894100_sleng.m3u8?-W1Ha1bGpzWLODGE8OGDSg1582824826
+#EXTINF:-1 group-title="USEE TV",NET TV
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w497456214_b1344100_sleng.m3u8?aXFX8Y1okcr1qV6LXW1vUg1582825404
+#EXTINF:-1 group-title="USEE TV",Kompas TV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w643424809_b894100_sleng.m3u8?Y7zfRRR0HIRAIrL8IC-IUw1582825250
+#EXTINF:-1 group-title="USEE TV",RTV
+https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w16649763_b684100_sleng.m3u8?dMqu6-4aO7TYvtjxPymfig1582825457
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA",I NEWS
+https://delivery.macan.live/stream/id_inews/index.m3u8?token=gratisan&v=20200308
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA",TVRI
+https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_2499968=6-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title="USEE TV",CNN INDONESIA
+https://vcdnjt.useetv.com/joss/15/cnnindonesia/chunklist_w1467525064_b894100_sleng.m3u8?nFrsmt-WoK1MFhBtM5ZsJg1579519945
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b280000_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",MEKKAH
+https://vcdnjt.useetv.com/joss/14/alquran/chunklist_w489673633_b684100_sleng.m3u8?B2HvtPCceHzdH-QFX5uS_g1584529961
+#EXTINF:-1 group-title="ISLAMI",MADINAH TV
+https://streamer-1.toffeelive.com/live/sunnah_tv_576/index.m3u8
+#EXTINF:-1 group-title="ISLAMI",INSAN
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:-1 group-title="ISLAMI",NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+#EXTINF:-1 group-title="ISLAMI",TAHFIDZ
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+#EXTINF:-1 group-title="ISLAMI",AL BAHJAH
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF:-1 group-title="ISLAMI",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+
+#EXTINF:-1 group-title="MOVIES",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+#EXTINF:-1 group-title="MOVIES",FOX Family MOVIESs
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 group-title="MOVIES",Fox MOVIESs
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 group-title="MOVIES",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1 group-title="MOVIES",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#EXTINF:-1 group-title="USEE TV",AXN
+https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1228786229_b894100_sleng.m3u8?cG4K0nGSqlS9bY45qCCXtw1584799779
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="LIVE MOVIES",CINEMAX
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=46D756970263BA3473B404CE3F77AC26993081D0&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1 group-title="USEE TV",beIN Sport 1
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w523080819_b1344100_sleng.m3u8?CY6m_NEXbRgX6j2coUhb4Q1582823596
+#EXTINF:-1 group-title="USEE TV",beIN Sport 2
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w115517397_b1344100_sleng.m3u8?BXcMrtNJnpCf5bYyw0o_UQ1582823785
+#EXTINF:-1 group-title="USEE TV",UseeSport 1
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w1916892499_b1344100_sleng.m3u8?MVPqEGd1odJ4UedaV_Ysrw1582823852
+#EXTINF:-1 group-title="USEE TV",UseeSport 2
+https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w843853858_b1344100_sleng.m3u8?kJiQZ4cxlRZus27J5SUaTw1582823932
+#EXTINF:-1 group-title="USEE TV",Champion TV 1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w379993603_b1344100_sleng.m3u8?l-OdPssifNY_01I3hQ5VPw1582823993
+#EXTINF:-1 group-title="USEE TV",Champion TV 2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w727818557_b1344100_sleng.m3u8?6DBDHGenkyrnLmv1Qt29Aw1582824044
+#EXTINF:-1 group-title="USEE TV",Fox Sport 1
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w825701812_b1344100_sleng.m3u8?ouw5njTyp4T1uhgbQN1vAw1579973729
+#EXTINF:-1 group-title="USEE TV",Fox Sport 2
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w2130220114_b1344100_sleng.m3u8?_3Xas0p5c8J0Xn9LyKD6xA1582824126
+#EXTINF:-1 group-title="USEE TV",Fox Sport 3
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1427889370_b1344100_sleng.m3u8?OEhUm0U_dj1lHeYcHzN6Qg1582824155
+#EXTINF:-1 group-title="USEE TV",Nat Geo
+https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1941751046_b1344100_sleng.m3u8?7Y6om2QPvW3Yp9H3g5Djzw1582824201
+#EXTINF:-1 group-title="USEE TV",Nat Geo People
+https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w571648727_b1344100_sleng.m3u8?ouRdY5h63EiCwWdam4jQnQ1582824277
+#EXTINF:-1 group-title="USEE TV",Nat Geo Wild
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1533043062_b1344100_sleng.m3u8?5THnyiTMhU7JKKkpHQZf8w1582824337
+#EXTINF:-1 group-title="USEE TV",Discovery Channel
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w2073848309_b1344100_sleng.m3u8?W0owScvgFwQN46k0kDSXZA1582824391
+#EXTINF:-1 group-title="USEE TV",NBA
+https://vcdnjt.useetv.com/joss/15/nba/chunklist_w1788314439_b1344100_sleng.m3u8?tM_JDaGOkOL0ylMfZb54fw1582824456
+#EXTINF:-1 group-title="USEE TV",WAKU WAKU JAPAN
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1175449473_b494100_sleng.m3u8?gDjBhzte23UB_Ngo-rb0IQ1584803306
+#EXTINF:-1 group-title="USEE TV",Z BIOSKOP
+https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w1085675472_b684100_sleng.m3u8?OiDDzf3nYMeb0jSORYmKSg1584803524
+#EXTINF:-1 group-title="USEE TV",CELESTIAL MOVIE
+https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w954726482_b684100_sleng.m3u8?S9CU0VYIYNNn-jfGBrOZsA1584802477
+#EXTINF:-1 group-title="USEE TV",FLIX
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w1202539728_b894100_sleng.m3u8?3LDq7Mpks8buGMGUEkmF-A1584803011
+#EXTINF:-1 group-title="USEE TV",THRILL
+https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w2102222406_b684100_sleng.m3u8?z1jUakGooqRou0rK56Whcg1584803170
+#EXTINF:-1 group-title="USEE TV",KIX
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1801129833_b894100_sleng.m3u8?WiwlfI8X9X21Pyp8dp7q-Q1584803246
+#EXTINF:-1 group-title="USEE TV",Ruang Trampil
+https://vcdnjt.useetv.com/joss/15/useeinfo/chunklist_w1745200842_b1344100_sleng.m3u8?Ja9jJDDsoDg7nkEqqkQBUA1582824581
+#EXTINF:-1 group-title="USEE TV",Usee Photo
+https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_w1776134862_b1344100_sleng.m3u8?lWNQNQIZADLabbzRy-r13w1582824635
+#EXTINF:-1 group-title="USEE TV",UseePrime
+https://vcdnjt.useetv.com/joss/15/useeprime/chunklist_w1801613929_b894100_sleng.m3u8?1oxRLsrbSBh78sI3J1K5TQ1582824718
+#EXTINF:-1 group-title="USEE TV",Idku
+https://vcdnjt.useetv.com/joss/15/idku/chunklist_w575168943_b1344100_sleng.m3u8?_8TBwJZrB1KAwzEoTSlXBQ1582824777
+#EXTINF:-1 group-title="USEE TV",NICKJR
+https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w775795172_b684100_sleng.m3u8?ZLOxVaEaRGwGrqN-UwfWoA1582826373
+#EXTINF:-1 group-title="USEE TV",Nickelodeon
+https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w1562501762_b684100_sleng.m3u8?ySJSFrqvwSaRvG-pi9k_Bw1582826407
+#EXTINF:-1 group-title="USEE TV",DAVINCI
+https://vcdnjt.useetv.com/joss/14/davinci/chunklist_w603619336_b684100_sleng.m3u8?UJUIQkeT1emU8FYFvfpVew1582826437
+#EXTINF:-1 group-title="USEE TV",DREAMWORKS
+https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w200820218_b1344100_sleng.m3u8?XKe9a21NQpEHsbQWJtVJgQ1582826485
+#EXTINF:-1 group-title="USEE TV",Insert
+https://vcdnjt.useetv.com/joss/14/insert/chunklist_w977669035_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",JITV
+https://vcdnjt.useetv.com/joss/14/jitv/chunklist_w70325897_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",TV Edukasi
+https://vcdnjt.useetv.com/joss/14/tvedukasi/chunklist_w941185985_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Bein 1
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w107534727_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Bein 2
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w599886783_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Flix
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w1058998300_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Galaxy
+https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w735830536_b894100_sleng.m3u8?FyEJ4y9aiw48n09UC0pOYQ1579519237
+#EXTINF:-1 group-title="USEE TV",Bioskop Indonesia
+https://vcdnjt.useetv.com/joss/14/bioskopindonesia/chunklist_w773380412_b684100_sleng.m3u8?mGhD53uo-8mybzZ2PfofLQ1579521943
+#EXTINF:-1 group-title="USEE TV",Imc
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w967846953_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Prambors
+https://vcdnjt.useetv.com/joss/14/pramborstv/chunklist_w76839492_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",T Musik`
+https://vcdnjt.useetv.com/joss/14/tmusic/chunklist_w1708148941_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Baby First
+https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Davinci
+https://vcdnjt.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Dunia Anak
+https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_w2089057539_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Horee
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w1544184218_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Nick Jr
+https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w1977672417_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Spacetoon
+https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w659961372_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Eat Go
+https://vcdnjt.useetv.com/joss/14/eatgo/chunklist_w132877268_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Dunia Lain
+https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_w831999399_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Hi Indo
+https://vcdnjt.useetv.com/joss/14/hiindo/chunklist_w1651024028_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Khazanah
+https://vcdnjt.useetv.com/joss/14/khazanah/chunklist_w902087431_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",MQ TV
+https://vcdnjt.useetv.com/joss/14/mqtv/chunklist_w1185145390_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Mta TV
+https://vcdnjt.useetv.com/joss/14/mtatv/chunklist_w289103104_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE TV",Muhammadiyah TV
+https://vcdnjt.useetv.com/joss/14/muhammadiyahtv/chunklist_w1526201683_b684100_sleng.m3u8
